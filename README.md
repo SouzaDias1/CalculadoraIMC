@@ -6,6 +6,7 @@ Aplicação dotnet console para cálculo do IMC.
 ## Funcionalidades 
 
 - Calcula o IMC
+- Apresenta um resultado ao usuário
 
 ## Tecnologias
 
